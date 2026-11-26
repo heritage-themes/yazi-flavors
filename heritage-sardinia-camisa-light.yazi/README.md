@@ -1,0 +1,12 @@
+# Sardinia Camisa (Light) for yazi
+
+Sardinia Camisa (Light) is a light flavor of [Heritage Themes](https://github.com/heritage-themes/heritage-themes) for [yazi](https://github.com/sxyazi/yazi), from the Sardinia family: The traditional dress of Sardinia: saffron keywords and scarlet strings from the dyed silk and wool, indigo methods, walnut-brown fields and coral numbers, on black orbace or white linen. Its colours are those of the Sardinia Camisa (Light) theme of the [Heritage Themes for terminals](https://github.com/heritage-themes/heritage-themes/releases/latest), which the terminal should run with it.
+
+With this folder in yazi's `flavors` folder, name the flavor in yazi's `theme.toml`:
+
+```toml
+[flavor]
+light = "heritage-sardinia-camisa-light"
+```
+
+The [family's page](https://github.com/heritage-themes/heritage-themes/tree/master/themes/sardinia) describes its colour tradition.
